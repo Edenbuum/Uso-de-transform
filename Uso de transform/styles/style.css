@@ -1,0 +1,21 @@
+div{
+    border: 2px black solid;
+    width: 150px;
+    height: 80px;
+}
+
+.a{
+    left:40px;
+    transform: scaleY(1.5);
+}
+
+.b{
+    transform: skewY(15deg) translateY(10px);
+    left:300px;
+}
+
+.c{
+    transform: rotate(20deg);
+    left:500px;
+}
+
